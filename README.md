@@ -7,7 +7,7 @@ intended to be used for commercial purposes.
 # ----------------------------------------------------------------------------------------------------------------------
 # Part 1:
 # DATASET
-Dataset is available at: https://drive.google.com/drive/folders/1IBUPxgdL8pKGjmYfDTt8LDeVZ3Ceq5rg?usp=sharing
+Dataset is available at: https://drive.google.com/file/d/1PX1RAK64aVuH0dRrTogtkOC-mMewLMIJ/view?usp=sharing
 
 # Results:
 ----------------------------------------------------------------------------------------------------------------------
