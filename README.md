@@ -5,7 +5,6 @@ Lahore, Pakistan. This repository is only for learning purposes and is not
 intended to be used for commercial purposes.
 
 # ----------------------------------------------------------------------------------------------------------------------
-# Part 1:
 # DATASET
 Dataset is available at: https://drive.google.com/file/d/1PX1RAK64aVuH0dRrTogtkOC-mMewLMIJ/view?usp=sharing
 
