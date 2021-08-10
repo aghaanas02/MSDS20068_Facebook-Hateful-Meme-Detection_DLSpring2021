@@ -13,3 +13,9 @@ Dataset is available at: https://drive.google.com/file/d/1PX1RAK64aVuH0dRrTogtkO
 
 # Results:
 ----------------------------------------------------------------------------------------------------------------------
+
+# Fusion of InceptionV3 and TF-IDF Vectorizer
+
+# Classification Report
+![Experiment 3 Classification Report](https://user-images.githubusercontent.com/52574454/128944041-9f7af794-cd6c-441e-a946-f61548c8546d.PNG)
+
