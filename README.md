@@ -4,6 +4,9 @@ Learning Spring 2021 course offered at Information Technology University,
 Lahore, Pakistan. This repository is only for learning purposes and is not
 intended to be used for commercial purposes.
 
+# Course Website:
+http://im.itu.edu.pk/deeplearning2021/
+
 # ----------------------------------------------------------------------------------------------------------------------
 # DATASET
 Dataset is available at: https://drive.google.com/file/d/1PX1RAK64aVuH0dRrTogtkOC-mMewLMIJ/view?usp=sharing
