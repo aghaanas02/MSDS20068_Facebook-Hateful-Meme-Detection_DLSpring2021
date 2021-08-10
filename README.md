@@ -17,5 +17,7 @@ Dataset is available at: https://drive.google.com/file/d/1PX1RAK64aVuH0dRrTogtkO
 # Fusion of InceptionV3 and TF-IDF Vectorizer
 
 # Classification Report
-![Experiment 3 Classification Report](https://user-images.githubusercontent.com/52574454/128944869-95c7b8fe-cc50-4af0-92d8-0bd95b97372e.PNG)
+<img src="https://github.com/aghaanas02/MSDS20068_Facebook-Hateful-Meme-Detection_DLSpring2021/blob/main/Results/Experiment%203%20Classification%20Report.PNG" width="75%"></img>
 
+# Model Loss and Accuracy Curves
+<img src="https://github.com/aghaanas02/MSDS20068_Facebook-Hateful-Meme-Detection_DLSpring2021/blob/main/Results/Model%20Loss%20And%20Accuracy.PNG" width="85%"></img>
